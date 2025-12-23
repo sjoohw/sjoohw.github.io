@@ -807,7 +807,8 @@ export default function App() {
                     <p>• Scroll / Pinch: Zoom (확대/축소)</p>
                     <div className="mt-2 pt-2 border-t border-gray-700">
                         <p className="text-blue-300">■ Blue: Miller Plane</p>
-                        <p className="text-gray-300">● White: Carbon Atoms</p>
+                        <p className="text-gray-300">● White: Silicon Atoms</p>
+                        <p>sjoo.hwang@samsung.com DeviceSRAMlab2</p>
                     </div>
                 </div>
             </div>
